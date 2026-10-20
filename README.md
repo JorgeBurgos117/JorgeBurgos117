@@ -100,29 +100,6 @@ Areas I study and apply through academic and personal projects:
 - API and device communication.
 - Debugging, build systems, and application packaging.
 
-## `05` / GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=56D4DD&icon_color=9B8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=56D4DD&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=56D4DD&fire=9B8CFF&currStreakLabel=56D4DD&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
-
-</div>
-
-## `07` / Current mindset
-
-```text
-[ BUILD ]       Turn ideas into working systems.
-[ INTEGRATE ]   Connect software, devices, and users.
-[ IMPROVE ]     Test, debug, document, and iterate.
-```
-
-<div align="center">
 
 *Always building something new.*
 
