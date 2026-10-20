@@ -63,48 +63,8 @@ I enjoy solving practical engineering problems, integrating independent componen
 | Operating systems | Linux (Kubuntu), Windows |
 | Digital fabrication | Bambu Studio, MakerWorld, FDM 3D printing |
 
-## `03` / Featured project
 
-<div align="center">
-
-### ♟️ MENANI CHESS CLOCK
-
-**An integrated chess clock ecosystem**
-
-A hardware and software project connecting embedded firmware, mobile applications, and desktop software into one system.
-
-</div>
-
-```text
-                 ┌─────────────────────┐
-                 │    CHESS CLOCK      │
-                 │   ESP32 + Firmware  │
-                 └──────────┬──────────┘
-                            │
-                 ┌──────────┴──────────┐
-                 │                     │
-           Bluetooth LE           Serial / USB
-                 │                     │
-        ┌────────▼────────┐    ┌───────▼────────┐
-        │ Android App     │    │ Java Desktop   │
-        │ Kotlin + Compose│    │ Chess Hub      │
-        └─────────────────┘    └────────────────┘
-```
-
-**Technical highlights**
-
-- Embedded clock functionality and hardware integration.
-- BLE communication between the clock and an Android companion app.
-- Kotlin, Jetpack Compose, and Android SDK.
-- Line-delimited JSON protocol with BLE message reassembly.
-- Java desktop application with Maven and serial communication.
-- Exploration of tournament workflows and Swiss-Manager interoperability.
-
-**Stack:** `ESP32` `Arduino` `BLE` `Kotlin` `Jetpack Compose` `Java` `Maven`
-
-[**→ Explore my repositories**](https://github.com/YOUR_USERNAME?tab=repositories)
-
-## `04` / Other engineering projects
+## `03` / Other engineering projects
 
 <details>
 <summary><strong>🔋 Battery-powered embedded devices</strong></summary>
@@ -129,7 +89,7 @@ Designing and publishing functional 3D-printable models, with attention to manuf
 
 </details>
 
-## `05` / Software engineering
+## `04` / Software engineering
 
 Areas I study and apply through academic and personal projects:
 
@@ -140,7 +100,7 @@ Areas I study and apply through academic and personal projects:
 - API and device communication.
 - Debugging, build systems, and application packaging.
 
-## `06` / GitHub activity
+## `05` / GitHub activity
 
 <div align="center">
 
